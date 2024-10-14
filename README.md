@@ -44,15 +44,20 @@
 ![image](https://github.com/user-attachments/assets/3b8e668f-9c1e-43fd-ad78-ec8cc4d597e9)
 
 - jika admin memilih opsi 3 maka admin akan bisa mengupdate orderan yang ada
+
 ![image](https://github.com/user-attachments/assets/66b98641-5f94-49fc-92c6-35b2e6b32e4c)
+
 ![image](https://github.com/user-attachments/assets/223259e7-5fdc-46d3-aa75-a3fbe7f836dd)
 
 
 - jika admin memilih opsi 4 maka admin akan bisa menghapus pesanan yang ada
+  
 ![image](https://github.com/user-attachments/assets/1da1c4c6-64b8-4468-a431-e18e2ce33114)
+
 ![image](https://github.com/user-attachments/assets/22067041-4deb-454a-8500-c6ec2e242c0b)
 
 - jika admin memilih opsi 5 maka akan kembali ke menu utama
+  
 ![image](https://github.com/user-attachments/assets/856dc77a-e9df-4cf6-82b0-e009eca63c55)
 
 
