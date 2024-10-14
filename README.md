@@ -38,6 +38,7 @@
 ![image](https://github.com/user-attachments/assets/7b1800c4-7a5b-4ad5-b0fa-3df12cc4b2b6)
 ## Menu Admin
 - jika admin memilih opsi 1 maka admin akan bisa menambahkan order seperti pengguna
+  
 ![image](https://github.com/user-attachments/assets/fcd79b8d-4fac-402e-8dd4-08637d6f1f6d)
 
 - jika admin memilih opsi 2 maka admin akan bisa melihat orderan yang ada
@@ -60,6 +61,11 @@
   
 ![image](https://github.com/user-attachments/assets/856dc77a-e9df-4cf6-82b0-e009eca63c55)
 
+
+# LogOut
+
+![image](https://github.com/user-attachments/assets/e7de1997-a114-4326-b05e-309fa3d32124)
+- jika memilih opsi 2 di menu utama makan program akan selesai
 
 
 
