@@ -64,7 +64,7 @@
 
 # LogOut
 
-![image](https://github.com/user-attachments/assets/e7de1997-a114-4326-b05e-309fa3d32124)
+![image](https://github.com/user-attachments/assets/f1739953-1de9-445b-9f9e-0c45bbbcce1a)
 - jika memilih opsi 2 di menu utama makan program akan selesai
 
 
