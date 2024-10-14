@@ -110,7 +110,7 @@ def liat_pesanan(username):
         print(tabel)
 
 def update_pesanan():
-    jenis_hotwheels = input("Model mobil yang mau diupdate apa?: ")
+    jenis_hotwheels = input("Masukan jenis hotwheels yang mau diupdate: ")
     with open('pesanan.txt', 'r') as file:
         semua_baris = file.readlines()
 
