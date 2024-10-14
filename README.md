@@ -12,9 +12,11 @@
 
 ## Menu Utama
 ![image](https://github.com/user-attachments/assets/98fb16d6-7bd2-4feb-9977-71f3b15b46ac)
-## MODE PENGGUNA
+# MODE PENGGUNA
+## Login Berhasil
+- Setelah itu akan ada 3 menu 
 ![image](https://github.com/user-attachments/assets/da7c2330-f482-4c7e-9a5f-ac7542aac6a2)
-## jika memilih opsi 1 maka akan bisa menginput 
+## Menu Pengguna
 ![image](https://github.com/user-attachments/assets/07258a8b-e448-486a-9e00-7a0b47ef54af)
 
 
